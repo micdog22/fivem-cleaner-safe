@@ -1,5 +1,5 @@
 
-# MicDog – FiveM Cleaner (Safe)
+# MicDog: FiveM Cleaner (Safe)
 
 Ferramenta **segura** para **limpeza de cache do FiveM** e dados temporários específicos do jogo.  
 Foco em **manutenção e solução de problemas** (travar em loading, textura corrompida, etc.).  

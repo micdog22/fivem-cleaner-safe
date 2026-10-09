@@ -37,7 +37,7 @@ foreach ($t in $targets) {
     if (Test-Path $p) { $resolved += $p }
 }
 
-Write-Host "MicDog – FiveM Cleaner (Safe)"
+Write-Host "MicDog: FiveM Cleaner (Safe)"
 Write-Host "Fechando FiveM (opcional)..."
 
 Stop-FiveM
